@@ -12,7 +12,6 @@ dist
 .local
 /bin
 .eslintrc.js
-.eslintrc.cjs
-.commitlint.config.cjs
+*.cjs
 .prettierrc.js
 /src/mock/*
